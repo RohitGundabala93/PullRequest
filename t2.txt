@@ -5,12 +5,8 @@ eddited
 from 
 test
 branch
-<<<<<<< HEAD
 testing form test branch
 edited 
 from
 remote
 fun	
-=======
-
->>>>>>> parent of deb8e2b (Merge branch 'Test' of https://github.com/RohitGundabala93/PullRequest)
