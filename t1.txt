@@ -9,4 +9,3 @@ asdf
 sad
 testing
 reset
-reset1
